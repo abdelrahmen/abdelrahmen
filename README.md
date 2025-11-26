@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Backend Developer at HelpTk
+- 🏢 I'm a Software Engineer and Backend Developer at Coud4Rain
 - 👀 I’m interested in Backend Development and software development in General
 - 💬 Ask me about my experience with C#, ASP.NET and Backend Development.
 
