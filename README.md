@@ -19,7 +19,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/abdelrahman-anwar" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman--Anwar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abdelrahman.anwar@bk.ru" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Anwar-000000?style=for-the-badge&logo=Mail.Ru&logoColor=005FF9"/></a>
+<a href="mailto:abdelrahmananwar.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Anwar-000000?style=for-the-badge&logo=Mail.Ru&logoColor=005FF9"/></a>
 <a href="https://stackoverflow.com/users/14968588/abdelrahman-anwar" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Anwar-0077B5?style=for-the-badge&logo=Stack-Overflow&logoColor=F58025"/></a>
 
 
